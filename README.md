@@ -1,4 +1,8 @@
-# tDt
+# time-delta-t
+
+[![PyPI version](https://img.shields.io/pypi/v/time-delta-t.svg)](https://pypi.org/project/time-delta-t/)
+[![Python versions](https://img.shields.io/pypi/pyversions/time-delta-t.svg)](https://pypi.org/project/time-delta-t/)
+[![License](https://img.shields.io/pypi/l/time-delta-t.svg)](https://github.com/JDPlumbing/tdt/blob/main/LICENSE)
 
 **tDt (time delta toolkit)** — a Python library for counting elapsed time in flexible, exact units.  
 
