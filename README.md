@@ -25,7 +25,7 @@ Time in most software is messy:
 ## 🚀 Installation
 
 ```bash
-pip install tdt
+pip install time-delta-t
 ```
 
 ---
